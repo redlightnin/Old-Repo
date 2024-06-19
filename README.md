@@ -1,7 +1,5 @@
 # Fire Emblem Graphics Repository
 
-Discord Server: https://discord.gg/C7VNGnyTPA
-
 This is a public free to use and (sometimes) free to edit repository of graphics for Fire Emblem romhacking, Tactile Game creation, and Lex Talionis game creation. There are probably other Fire Emblem game creation tools that can use the resources in this repository, too.
 
 This repository contains: Portraits, battle animations, map sprites, music files, and countless other assorted resources people might like to use.
